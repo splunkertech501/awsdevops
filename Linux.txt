@@ -1,0 +1,6 @@
+sudo
+touch
+vi
+cat
+chmod
+passwd

@@ -4,3 +4,6 @@ vi
 cat
 chmod
 passwd
+
+hii
+
